@@ -22,9 +22,11 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
