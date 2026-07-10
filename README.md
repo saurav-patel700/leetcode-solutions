@@ -19,6 +19,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## String
 |  |
