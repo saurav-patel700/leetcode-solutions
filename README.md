@@ -32,6 +32,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0048-rotate-image](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0048-rotate-image) |
 | [1512-number-of-good-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -88,4 +89,8 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
