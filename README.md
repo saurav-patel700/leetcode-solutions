@@ -9,6 +9,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0001-two-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0209-minimum-size-subarray-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1052-grumpy-bookstore-owner](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1331-rank-transform-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -50,6 +51,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -76,6 +78,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
@@ -116,5 +119,6 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 <!---LeetCode Topics End-->
