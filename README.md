@@ -15,6 +15,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1331-rank-transform-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -61,6 +62,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [1402-reducing-dishes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1402-reducing-dishes) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
 | ------- |
@@ -121,4 +123,5 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
