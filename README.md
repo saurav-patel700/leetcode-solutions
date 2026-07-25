@@ -41,6 +41,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0007-reverse-integer](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0507-perfect-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0507-perfect-number) |
 | [1512-number-of-good-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2235-add-two-integers) |
