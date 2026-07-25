@@ -9,6 +9,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0001-two-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -41,6 +42,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0007-reverse-integer](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0507-perfect-number) |
 | [1512-number-of-good-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -124,6 +126,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
@@ -140,4 +143,8 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1004-max-consecutive-ones-iii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
