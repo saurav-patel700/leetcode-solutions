@@ -44,6 +44,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0013-roman-to-integer](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0650-2-keys-keyboard) |
