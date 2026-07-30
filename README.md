@@ -58,6 +58,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
