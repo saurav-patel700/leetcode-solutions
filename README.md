@@ -60,6 +60,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2614-prime-in-diagonal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
