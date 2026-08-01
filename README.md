@@ -72,6 +72,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [1021-remove-outermost-parentheses](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
