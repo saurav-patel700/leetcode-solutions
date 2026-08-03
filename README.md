@@ -10,6 +10,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0035-search-insert-position](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0088-merge-sorted-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -104,6 +105,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -133,6 +135,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
