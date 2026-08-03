@@ -12,6 +12,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0048-rotate-image](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -41,6 +42,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | ------- |
 | [0001-two-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Math
@@ -102,6 +104,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1402-reducing-dishes) |
