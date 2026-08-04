@@ -135,6 +135,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -189,6 +190,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
