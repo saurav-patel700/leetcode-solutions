@@ -220,6 +220,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0206-reverse-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
