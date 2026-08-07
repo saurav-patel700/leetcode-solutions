@@ -223,6 +223,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0725-split-linked-list-in-parts](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
