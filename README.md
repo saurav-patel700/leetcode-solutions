@@ -85,6 +85,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [1021-remove-outermost-parentheses](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -166,6 +167,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -263,4 +265,8 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
