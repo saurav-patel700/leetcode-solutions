@@ -42,6 +42,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3285-find-indices-of-stable-mountains](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3895-count-digit-appearances](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3895-count-digit-appearances) |
@@ -152,6 +153,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1920-build-array-from-permutation](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
