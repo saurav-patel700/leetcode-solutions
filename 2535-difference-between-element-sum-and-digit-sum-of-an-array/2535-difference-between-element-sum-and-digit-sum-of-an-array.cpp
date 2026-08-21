@@ -14,12 +14,7 @@ public:
         int dsum=0;
         for(int i=0;i<n;i++){
             esum+=nums[i];
-            if(nums[i]<=9){
-                dsum+=nums[i];
-            }
-            else {
-                    dsum+=digitsum(nums[i]);
-                }
+            dsum+=digitsum(nums[i]);
         }
         return abs(esum-dsum);
     }
