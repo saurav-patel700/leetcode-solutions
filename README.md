@@ -104,6 +104,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0649-dota2-senate](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [1021-remove-outermost-parentheses](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -126,6 +127,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0650-2-keys-keyboard) |
 | [1402-reducing-dishes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -191,6 +193,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0160-intersection-of-two-linked-lists](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
