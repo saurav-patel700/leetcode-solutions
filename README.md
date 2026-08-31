@@ -306,6 +306,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
@@ -369,13 +370,19 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
