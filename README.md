@@ -104,6 +104,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0020-valid-parentheses](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0257-binary-tree-paths](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0649-dota2-senate](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0649-dota2-senate) |
@@ -308,6 +309,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | ------- |
 | [0100-same-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
@@ -373,12 +375,14 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | ------- |
 | [0100-same-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
@@ -389,4 +393,8 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | ------- |
 | [0100-same-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
