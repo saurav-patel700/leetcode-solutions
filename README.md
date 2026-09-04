@@ -54,6 +54,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [3875-construct-uniform-parity-array-i](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3895-count-digit-appearances) |
+| [3903-smallest-stable-index-i](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1480-running-sum-of-1d-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3903-smallest-stable-index-i](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
