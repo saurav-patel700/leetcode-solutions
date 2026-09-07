@@ -401,6 +401,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -415,6 +416,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -438,4 +440,8 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
