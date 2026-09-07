@@ -27,6 +27,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0713-subarray-product-less-than-k](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1004-max-consecutive-ones-iii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1052-grumpy-bookstore-owner](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -221,6 +222,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0145-binary-tree-postorder-traversal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -229,6 +231,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Matrix
 |  |
@@ -410,6 +413,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0543-diameter-of-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -429,6 +433,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0543-diameter-of-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## DP on Trees
 |  |
 | ------- |
@@ -462,4 +467,5 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
