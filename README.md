@@ -336,6 +336,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0257-binary-tree-paths](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -411,6 +412,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -431,6 +433,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -465,6 +468,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0098-validate-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
