@@ -41,6 +41,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1512-number-of-good-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1773-count-items-matching-a-rule](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -131,6 +132,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0657-robot-return-to-origin](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1773-count-items-matching-a-rule](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
