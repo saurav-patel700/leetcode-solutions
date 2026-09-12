@@ -114,6 +114,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [3345-smallest-divisible-digit-product-i](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3783-mirror-distance-of-an-integer](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
