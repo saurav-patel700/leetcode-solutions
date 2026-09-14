@@ -45,6 +45,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1672-richest-customer-wealth](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1773-count-items-matching-a-rule](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
+| [1816-truncate-sentence](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -140,6 +141,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1528-shuffle-string](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
+| [1816-truncate-sentence](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
