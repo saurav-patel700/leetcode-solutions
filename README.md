@@ -114,6 +114,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [2520-count-the-digits-that-divide-a-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -280,6 +281,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting Sort
 |  |
@@ -333,6 +335,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0876-middle-of-the-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2074-reverse-nodes-in-even-length-groups) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
