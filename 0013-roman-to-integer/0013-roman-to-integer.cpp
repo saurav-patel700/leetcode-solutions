@@ -6,6 +6,8 @@ public:
             {'L',50}, {'C',100},
             {'D',500}, {'M',1000}
         };
+
+        //ans
         int ans = 0;
         for(int i = 0; i < s.length(); i++) {
             if(i + 1 < s.length() && mp[s[i]] < mp[s[i+1]])
