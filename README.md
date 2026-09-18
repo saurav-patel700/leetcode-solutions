@@ -96,6 +96,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0070-climbing-stairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0441-arranging-coins) |
@@ -210,6 +211,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -280,6 +282,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
