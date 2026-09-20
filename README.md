@@ -57,6 +57,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -83,6 +84,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1331-rank-transform-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -150,6 +152,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
@@ -219,6 +222,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1929-concatenation-of-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
