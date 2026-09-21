@@ -12,6 +12,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0035-search-insert-position](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0075-sort-colors](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -188,6 +189,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -236,6 +238,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -552,4 +555,12 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0204-count-primes) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
