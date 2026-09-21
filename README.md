@@ -81,6 +81,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0142-linked-list-cycle-ii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -137,6 +138,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0020-valid-parentheses](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -189,6 +191,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0088-merge-sorted-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
