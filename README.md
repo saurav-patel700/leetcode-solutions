@@ -78,6 +78,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | ------- |
 | [0001-two-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
@@ -98,6 +99,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | ------- |
 | [0007-reverse-integer](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0070-climbing-stairs) |
@@ -140,6 +142,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
