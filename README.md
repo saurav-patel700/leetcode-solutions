@@ -103,6 +103,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0012-integer-to-roman](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0204-count-primes) |
@@ -377,6 +378,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
