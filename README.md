@@ -91,6 +91,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1331-rank-transform-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -414,6 +415,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -497,6 +499,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0700-search-in-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -519,6 +522,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0700-search-in-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
 |  |
 | ------- |
@@ -529,6 +533,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0100-same-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
 |  |
 | ------- |
