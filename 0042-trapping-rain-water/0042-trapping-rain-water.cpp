@@ -6,7 +6,7 @@ public:
         int prev[n];
         prev[0]=-1;
         int max=height[0];
-        for(int i=0;i<n;i++){
+        for(int i=1;i<n;i++){
             prev[i]=max;
             if(max<height[i]) max=height[i];
         }
