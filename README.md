@@ -161,6 +161,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0649-dota2-senate](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1528-shuffle-string](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -201,6 +202,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0011-container-with-most-water](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0649-dota2-senate](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0861-score-after-flipping-matrix](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1402-reducing-dishes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1402-reducing-dishes) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -290,6 +292,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0145-binary-tree-postorder-traversal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -433,6 +436,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Range Minimum/Maximum Query
