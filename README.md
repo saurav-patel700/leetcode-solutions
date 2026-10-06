@@ -10,6 +10,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0011-container-with-most-water](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0048-rotate-image) |
@@ -254,6 +255,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0075-sort-colors) |
