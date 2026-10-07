@@ -28,6 +28,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0238-product-of-array-except-self](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0485-max-consecutive-ones](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
