@@ -21,6 +21,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -496,6 +497,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0861-score-after-flipping-matrix](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1486-xor-operation-in-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
