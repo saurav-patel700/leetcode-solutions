@@ -15,6 +15,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0035-search-insert-position](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -112,6 +113,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0013-roman-to-integer](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
