@@ -78,6 +78,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [3285-find-indices-of-stable-mountains](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3895-count-digit-appearances) |
@@ -104,6 +105,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3731-find-missing-elements](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
