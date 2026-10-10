@@ -134,6 +134,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1486-xor-operation-in-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
@@ -257,6 +258,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0657-robot-return-to-origin](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1389-create-target-array-in-the-given-order](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1688-count-of-matches-in-tournament](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1929-concatenation-of-array) |
