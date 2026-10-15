@@ -55,6 +55,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1528-shuffle-string) |
+| [1539-kth-missing-positive-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -266,6 +267,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0441-arranging-coins](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1539-kth-missing-positive-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
