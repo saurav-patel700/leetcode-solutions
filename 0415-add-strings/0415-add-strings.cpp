@@ -15,8 +15,11 @@ public:
             b=num2[j]-'0';
             j--;
             }
+            // sum % 10 gives the current digit.
             int sum=a+b+carry;
+            // sum / 10 gives the carry.
             ans+=(sum%10)+'0';
+            // +'0' converts the digit back into a character.
             carry=sum/10;
         }
         reverse(ans.begin(),ans.end());
