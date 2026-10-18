@@ -38,6 +38,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0713-subarray-product-less-than-k](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0861-score-after-flipping-matrix](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0912-sort-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1004-max-consecutive-ones-iii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -249,6 +250,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0242-valid-anagram](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1051-height-checker](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -320,6 +322,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0344-reverse-string](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2396-strictly-palindromic-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
