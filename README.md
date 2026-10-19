@@ -143,6 +143,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0628-maximum-product-of-three-numbers](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0650-2-keys-keyboard) |
 | [0836-rectangle-overlap](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [0866-prime-palindrome](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0866-prime-palindrome) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
@@ -377,6 +378,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | ------- |
 | [0204-count-primes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0258-add-digits) |
+| [0866-prime-palindrome](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0866-prime-palindrome) |
 | [1492-the-kth-factor-of-n](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -647,6 +649,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0866-prime-palindrome) |
 ## Sieve Theory
 |  |
 | ------- |
