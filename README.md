@@ -25,6 +25,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0136-single-number) |
+| [0164-maximum-gap](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0204-count-primes) |
@@ -258,6 +259,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0075-sort-colors](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -653,10 +655,12 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Geometry
 |  |
@@ -706,4 +710,8 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
