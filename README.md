@@ -118,6 +118,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1331-rank-transform-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1657-determine-if-two-strings-are-close](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -204,6 +205,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1528-shuffle-string](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1657-determine-if-two-strings-are-close](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1773-count-items-matching-a-rule](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
@@ -273,6 +275,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-reducing-dishes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -388,6 +391,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1657-determine-if-two-strings-are-close](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Number Theory
 |  |
 | ------- |
