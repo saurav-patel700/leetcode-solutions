@@ -51,6 +51,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1051-height-checker](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1109-corporate-flight-bookings](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
+| [1122-relative-sort-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -117,6 +118,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0217-contains-duplicate](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1122-relative-sort-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -278,6 +280,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0950-reveal-cards-in-increasing-order](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-reducing-dishes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1402-reducing-dishes) |
@@ -417,6 +420,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | ------- |
 | [0912-sort-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Sliding Window
@@ -699,11 +703,13 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Newton's Method
 |  |
 | ------- |
