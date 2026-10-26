@@ -65,6 +65,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1512-number-of-good-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -122,6 +123,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1331-rank-transform-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -285,6 +287,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-reducing-dishes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
