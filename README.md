@@ -37,6 +37,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0240-search-a-2d-matrix-ii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0622-design-circular-queue](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -270,6 +271,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0217-contains-duplicate](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -439,6 +441,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0215-kth-largest-element-in-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
