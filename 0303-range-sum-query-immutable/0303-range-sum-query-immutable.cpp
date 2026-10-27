@@ -8,11 +8,13 @@ public:
         for(int i=1;i<n;i++){
             pre[i]=pre[i-1]+nums[i];
         }
+
     }
     
     int sumRange(int left, int right) {
         if(left==0) return pre[right];
-        return pre[right]-pre[left-1];
+        else return pre[right]-pre[left-1];
+        
     }
 };
 
