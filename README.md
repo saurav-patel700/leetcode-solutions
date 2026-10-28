@@ -38,6 +38,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0303-range-sum-query-immutable](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -119,6 +120,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0217-contains-duplicate](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -232,6 +234,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0209-minimum-size-subarray-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
