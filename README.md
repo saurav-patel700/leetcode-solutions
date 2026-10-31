@@ -43,6 +43,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0560-subarray-sum-equals-k](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0861-score-after-flipping-matrix](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0912-sort-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -444,6 +445,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0003-longest-substring-without-repeating-characters](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
