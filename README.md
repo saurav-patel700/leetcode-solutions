@@ -40,6 +40,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0283-move-zeroes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -162,6 +163,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0415-add-strings](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0650-2-keys-keyboard) |
@@ -288,6 +290,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0217-contains-duplicate](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0853-car-fleet) |
