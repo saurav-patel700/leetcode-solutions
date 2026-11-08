@@ -130,6 +130,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0160-intersection-of-two-linked-lists](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1122-relative-sort-array) |
@@ -218,6 +219,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0242-valid-anagram](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -294,6 +296,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0215-kth-largest-element-in-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0506-relative-ranks) |
@@ -623,6 +626,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | ------- |
 | [0136-single-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0389-find-the-difference](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0861-score-after-flipping-matrix](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1486-xor-operation-in-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Tree
