@@ -144,6 +144,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -243,6 +244,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [2483-minimum-penalty-for-a-shop](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Prefix Sum
 |  |
@@ -442,6 +444,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0451-sort-characters-by-frequency](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
 |  |
 | ------- |
