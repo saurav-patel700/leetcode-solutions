@@ -180,6 +180,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0973-k-closest-points-to-origin](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -281,6 +282,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0649-dota2-senate](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0861-score-after-flipping-matrix](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1323-maximum-69-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1402-reducing-dishes](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1402-reducing-dishes) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
