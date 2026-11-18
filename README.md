@@ -246,6 +246,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [2409-count-days-spent-together](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/saurav-patel700/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
