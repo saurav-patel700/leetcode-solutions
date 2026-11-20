@@ -65,6 +65,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1200-minimum-absolute-difference](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -349,6 +350,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0441-arranging-coins](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -445,6 +447,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [0048-rotate-image](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/saurav-patel700/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 ## Counting
