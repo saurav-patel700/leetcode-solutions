@@ -82,6 +82,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -243,6 +244,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1657-determine-if-two-strings-are-close](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -267,6 +269,7 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 | [1004-max-consecutive-ones-iii](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
