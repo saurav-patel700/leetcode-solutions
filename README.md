@@ -815,4 +815,8 @@ A collection of my LeetCode solutions in C++, organized by topic and difficulty.
 |  |
 | ------- |
 | [2363-merge-similar-items](https://github.com/saurav-patel700/leetcode-solutions/tree/master/2363-merge-similar-items) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/saurav-patel700/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
